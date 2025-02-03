@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Joel Na
 
-# Your Github username
+# joelcna
 
-# List the things you added for points
+# Full 15, 16 passages, item pick ups/inventory (Z3R0 Pager and Trinket), Stats (STR and INT), tracking of passages
